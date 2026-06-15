@@ -1,0 +1,13 @@
+node_modules/
+artifacts/*/node_modules/
+artifacts/*/dist/
+.pnpm-store/
+.vercel/
+.DS_Store
+Thumbs.db
+.env
+.env.*
+!.env.example
+*.tsbuildinfo
+.wrangler/
+artifacts/*/.wrangler/
